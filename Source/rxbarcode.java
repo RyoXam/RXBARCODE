@@ -51,7 +51,7 @@ import com.nirvasoft.nirva.nvcmd;
 
 
 // class instancied when the service is started
-class rbarcode
+class rxbarcode
 {
 	//static int ERROR_BARCODE_MAX_SESSIONS_REACHED = 1;
 	java.util.Hashtable<String,rxbarcodesession> Sessions;
