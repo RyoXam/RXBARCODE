@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="Source"/>
+	<classpathentry kind="src" path="Bin"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="Bin/barcode4j.jar"/>
+	<classpathentry kind="lib" path="Bin/core.jar"/>
+	<classpathentry kind="lib" path="Bin/javase.jar"/>
+	<classpathentry kind="output" path="Bin"/>
+</classpath>
